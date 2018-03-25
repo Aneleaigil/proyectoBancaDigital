@@ -1,4 +1,4 @@
-# PROYECTO BANCA DIGITAL (Banco Mi Pais)
+# PROYECTO BANCA DIGITAL (App BankAhorro)
 
 
 #### Diseñando una solucion bancaria para Los Millenials 
