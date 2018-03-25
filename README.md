@@ -51,9 +51,10 @@ Tiene al menos dos metas para que este usuario empiece ahorrar, una como opcion 
 Primero se consideraron todos los objetivos y se observaron varias app en el mercado y se tomo ideas de las cosas buenas que tenian:
 ![bancaAhorro](/imagenes/bancaAhorro.jpg) 
 
+#### Versión Desktop
 ![desktop](/imagenes/desktop.JPG)
 
-#### Version Mobile (Mi parte)
+#### Versión Mobile (Mi parte)
 
 ![version mobile](/imagenes/appbankahorro.JPG)
 
