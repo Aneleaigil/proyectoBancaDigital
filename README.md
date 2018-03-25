@@ -49,9 +49,9 @@ Tiene al menos dos metas para que este usuario empiece ahorrar, una como opcion 
 
 #### Creación del wireframe app BankAhorro version desktop y mobile
 Primero se consideraron todos los objetivos y se observaron varias app en el mercado y se tomo ideas de las cosas buenas que tenian:
-![appbci](/imagenes/bancaAhorro.JPG) 
+![bancaAhorro](/imagenes/bancaAhorro.jpg) 
 
-![desktop](/imagenes/destop.JPG) ![desktop](/imagenes/simulador.JPG) ![desktop](/imagenes/avanzado.JPG)
+![desktop](/imagenes/desktop.JPG)
 
 #### Version Mobile (Mi parte)
 
