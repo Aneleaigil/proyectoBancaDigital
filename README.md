@@ -1,4 +1,11 @@
 # PROYECTO BANCA DIGITAL (App BankAhorro)
+Proyecto UX Design Elaborado para Laboratoria (2018) 
+
+![ahorro](https://user-images.githubusercontent.com/32284582/37942789-44813a58-314b-11e8-8439-30d691493ec7.JPG)
+
+
+# Tecnologia Usada: Marvel app (prototipado)
+Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, Benchmarking
 
 
 #### Diseñando una solucion bancaria para Los Millenials 
