@@ -66,6 +66,7 @@ Primero se consideraron todos los objetivos y se observaron varias app en el mer
 #### Versión Mobile (Mi parte)
 
 ![version mobile](/imagenes/appbankahorro.JPG)
+https://marvelapp.com/2dhha1g
 
  
 
