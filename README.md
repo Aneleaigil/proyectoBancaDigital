@@ -5,6 +5,7 @@ Proyecto UX Design Elaborado para Laboratoria (2018), app que facilita el ahorro
 ![image](https://user-images.githubusercontent.com/32284582/37943125-92b06aae-314c-11e8-9eba-1983ecc00fad.png)
 
 #### Desarrollado para [Laboratoria](http://laboratoria.la)
+[ver prototipo](https://marvelapp.com/2dhha1g)
 
 #### Tecnologia Usada: Marvel app (prototipado) 
 Tecnicas de Investigación: User Research, Entrevistas, y encuestas, arquetipos o user person, Benchmarking
@@ -66,7 +67,7 @@ Primero se consideraron todos los objetivos y se observaron varias app en el mer
 #### Versión Mobile (Mi parte)
 
 ![version mobile](/imagenes/appbankahorro.JPG)
-https://marvelapp.com/2dhha1g
+[ver prototipo](https://marvelapp.com/2dhha1g)
 
  
 
